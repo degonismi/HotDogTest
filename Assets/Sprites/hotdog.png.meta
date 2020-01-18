@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 3f125cfb54d4100498ea5097aaaddda3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5843657036778545147
+    second: hotdog_0
+  - first:
+      213: 4834121909853568186
+    second: hotdog_1
+  - first:
+      213: -6383104994081306839
+    second: hotdog_2
+  - first:
+      213: 1226651188414272682
+    second: hotdog_3
+  - first:
+      213: -864256744840905144
+    second: hotdog_4
+  - first:
+      213: 3757423414325565133
+    second: hotdog_5
+  - first:
+      213: -4654634727377983362
+    second: hotdog_6
+  - first:
+      213: 4478787006934180356
+    second: hotdog_7
+  - first:
+      213: 5321356690444454419
+    second: hotdog_8
+  - first:
+      213: 2870395854519959090
+    second: hotdog_9
+  - first:
+      213: 5159683748627981759
+    second: hotdog_10
+  - first:
+      213: -3471436815035318013
+    second: hotdog_11
+  - first:
+      213: 3613713408589691005
+    second: hotdog_12
+  - first:
+      213: -347394207957580866
+    second: hotdog_13
+  - first:
+      213: 7424799666264013034
+    second: hotdog_14
+  - first:
+      213: 3771762849355478515
+    second: hotdog_15
+  - first:
+      213: 7240995921034324762
+    second: hotdog_16
+  - first:
+      213: 6152895434551694138
+    second: hotdog_17
+  - first:
+      213: 213139521439593571
+    second: hotdog_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hotdog_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3178014000e944ba154f6b141f4c02
+      internalID: 5843657036778545147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 369
+        width: 384
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527ef3792066e149aa63d78d1194cd1
+      internalID: 4834121909853568186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2
+        width: 117
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325a4c0453da1e94d99c0a6202b1dd4e
+      internalID: -6383104994081306839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_3
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 342
+        width: 106
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f196e48eed948f408227e2cd0ddbad3
+      internalID: 1226651188414272682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_4
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 301
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fae43dd2620ad748a8602827ef6784f
+      internalID: -864256744840905144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 238
+        width: 147
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8990522a4be63c742983248441b247c5
+      internalID: 3757423414325565133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 306
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2dee1b952fbfb48a77e3cf7852eb56
+      internalID: -4654634727377983362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 41
+        width: 57
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940e18b16216a6e4ea8653af3d035e27
+      internalID: 4478787006934180356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 41
+        width: 57
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594c08ac76ab4247be0bb3f18ef0b20
+      internalID: 5321356690444454419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 40
+        width: 205
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3228531fbf99544e9c226b87e94c1f1
+      internalID: 2870395854519959090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_10
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 245
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5eee87d1f44cc49a08cfe60e8aeb07
+      internalID: 5159683748627981759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_11
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 215
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ebb37e59770474d874448d2a08d4a9
+      internalID: -3471436815035318013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 53
+        width: 110
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e852c4eab4be14cac9fb3c48593089
+      internalID: 3613713408589691005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_13
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 194
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e45a4043a62143b6d0db3ec633b72
+      internalID: -347394207957580866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_14
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 168
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a32020c27b3ee4aa0fad1fcbf41176
+      internalID: 7424799666264013034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 30
+        width: 77
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230bde87eb9cf364193c86de5e03a4d6
+      internalID: 3771762849355478515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_16
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 37
+        width: 181
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd28e990708e9cd43a7169d546a4af0a
+      internalID: 7240995921034324762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_17
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 119
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b621e4b70a93b4a84d325716179df4
+      internalID: 6152895434551694138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotdog_18
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2
+        width: 36
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989dd68c211f4548b66865fa8c0bb41
+      internalID: 213139521439593571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
